@@ -73,10 +73,3 @@ A likely explanation: moderate adverse weather discourages walking and cycling, 
 - The July traffic anomaly likely reflects a data artifact (construction in one year) rather than a consistent seasonal pattern
 - Weather correlations are weak at the aggregate level; more granular modeling (e.g., interaction effects between weather and time) may yield stronger signals
 
----
-
-## Potential Next Steps
-
-- Build a predictive model for traffic volume using time and weather features
-- Investigate the July anomaly year-by-year to isolate the cause
-- Extend the analysis to eastbound traffic for directional comparison
